@@ -11,6 +11,6 @@ Comandos Git
   --name-only
 - git checkout nome_arquivo
 - git reset HEAD nome_arquivo
-  --soft
-  --mixed
-  --hard
+  --soft : volta um estágio
+  --mixed : volta para modified
+  --hard : exclui todas alterações
