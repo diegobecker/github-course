@@ -9,3 +9,4 @@ Comandos Git
   show "aqui uma hash de um commit"
 -git diff
   --name-only
+- git checkout nome_arquivo
