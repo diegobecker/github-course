@@ -23,3 +23,5 @@ Comandos Git
   --list  : listar os stashs
   --clear : limpar
 - git config --global alias.s status : criar um alias para não precisar digitar
+- git tag -a 1.0.0 -m "Mensagem"
+  - git push origin master --tags
