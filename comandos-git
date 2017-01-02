@@ -7,6 +7,10 @@ Comandos Git
 - git log
   --decorate
   show "aqui uma hash de um commit"
--git diff
+- git diff
   --name-only
 - git checkout nome_arquivo
+- git reset HEAD nome_arquivo
+  --soft
+  --mixed
+  --hard
