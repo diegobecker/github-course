@@ -14,3 +14,12 @@ Comandos Git
   --soft : volta um estágio
   --mixed : volta para modified
   --hard : exclui todas alterações
+- git checkout
+  -b nome_branch : para criar novo
+  -nome_branch : para navegar entre
+- git branch -D nome_branch : deletar
+- git stash
+  --apply : retornar para as alterações
+  --list  : listar os stashs
+  --clear : limpar
+- git config --global alias.s status : criar um alias para não precisar digitar
