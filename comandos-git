@@ -25,3 +25,4 @@ Comandos Git
 - git config --global alias.s status : criar um alias para não precisar digitar
 - git tag -a 1.0.0 -m "Mensagem"
   - git push origin master --tags
+- git push origin :1.0.0 - deletar tags ou branchs
